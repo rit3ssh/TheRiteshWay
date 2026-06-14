@@ -1,3 +1,5 @@
-./node_modules/
+## excluding node modules 
+node_modules/*
 
-./.env
+## excluding .env file
+.env
